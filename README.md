@@ -1,4 +1,4 @@
-# <span style='color:6685FF'><B>Maxime's Profile - LOOKING FOR INTERSHIP</B></span>
+# <span style='color:6685FF'><B>Maxime's Profile </B></span>
 ___________
 
 ## Personal Presentation
