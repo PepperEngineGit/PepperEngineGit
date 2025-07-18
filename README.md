@@ -85,4 +85,4 @@ I'm excited about the opportunity to bring my unique blend of technical expertis
 
 | First Name | Last Name | Email                      | Phone            | City         |
 | ---------- | --------- | -------------------------- | ---------------- | ------------ |
-| Maxime     | Turla     | Maxime.Turla@startmail.com | +32 493 36 63 41 | Leernes 6142 |
+| Maxime     | Turla     | Maxime.Turla@startmail.com | Ask Me | Leernes 6142 |
